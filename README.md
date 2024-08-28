@@ -1,5 +1,7 @@
 # Trinnov HTTP Remote for HomeAutomation
 
+**August 2024 update**: you might like or prefer this HomeAssistant integration by *binarylogic* https://github.com/binarylogic/trinnov-altitude-homeassistant
+
 Send HTTP calls to control your Trinnov processor (tested with JBL Synthesis SDP-75)
 
 ![image](https://github.com/Morveus/TrinnovRemote/assets/2972468/03382891-495b-46df-a59c-17ac58ab1d11)
